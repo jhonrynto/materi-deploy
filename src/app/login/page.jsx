@@ -1,5 +1,10 @@
 import React from "react";
 
 export default function Login() {
-  return <div>Ini Halaman Login baru</div>;
+  return (
+    <div>
+      <h1>Login</h1>
+      <p>Ini Halaman Login baru 2</p>
+    </div>
+  );
 }
